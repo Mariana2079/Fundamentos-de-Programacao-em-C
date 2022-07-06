@@ -1,0 +1,12 @@
+1) Ler um número positivo. Repetir a leitura até que seja informado um número que atende essa condição (validar a entrada).
+Esse número representa a quantidade de primos a serem mostrados.
+Fazer a Média dos números primos mostrados. Validar para que não  seja realizada divisão por zero.
+
+2) Ler dois números positivos que representam os limites inferior e superior de um intervalo.
+Validar a entrada para que sejam informados números positivos. É mais adequado validá-los separadamente.
+Fazer a média dos múltiplos de 3 e de 5 desse intervalo. Verificar para que no cálculo da média não seja feita divisão por zero.
+
+3) Ler um número positivo e maior que zero (validar a entrada).
+Esse número indica a quantidade de valores ímpares e não divisíveis por 5 e divisíveis por 7 que devem ser mostrados.
+Apresentar 'n' valores por linha. 'n' é informado pelo usuário e deve ser maior que zero. Validar a entrada.
+
